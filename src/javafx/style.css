@@ -1,0 +1,21 @@
+    /*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    
+*/
+
+#text{
+    -fx-fill:red;
+    -fx-font-size:30;
+    -fx-font-weight:bold;
+    -fx-box-reflect :below 10px;    
+
+}
+
+#rect{
+  -fx-fill: linear-gradient(black,white,black);
+
+}
+
